@@ -1,2 +1,7 @@
 numpy
 pandas
+pytest
+matplotlib
+seaborn
+scipy
+ipykernel

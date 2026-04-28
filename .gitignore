@@ -3,3 +3,6 @@ data/
 .ipynb_checkpoints/
 venv/
 __pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
